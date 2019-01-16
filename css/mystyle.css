@@ -1,0 +1,9 @@
+.profile {
+    max-width: 60%
+   }
+#projects {
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.8)),color-stop(75%,rgba(70, 120, 185, 0.9)),to(rgba(67, 57, 80, 0.801)));
+}
+.project {
+    background-color: black;
+}
