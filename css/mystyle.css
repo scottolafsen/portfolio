@@ -2,8 +2,17 @@
     max-width: 60%
    }
 #projects {
-    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.8)),color-stop(75%,rgba(70, 120, 185, 0.9)),to(rgba(67, 57, 80, 0.801)));
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.8)),color-stop(75%,rgba(6, 20, 39, 0.9)),to(rgba(139, 144, 164)));
+    padding: 100px;
+}
+.projects {
+   
+    padding-bottom: 40px;
 }
 .project {
-    background-color: black;
+    background-color: #161616;
+}
+i {
+    height: 50px;
+    width: 50px;
 }
